@@ -1,3 +1,4 @@
 # Algorithmizace
 # Algorithmizace
 # Algorithmizace
+# Algorithmizace
